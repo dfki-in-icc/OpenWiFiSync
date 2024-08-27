@@ -5,7 +5,7 @@
 
 <ins>Please cite as:</ins>\
 *M. Gundall and Hans D. Schotten, "OpenWiFiSync: Open Source Implementation of a Clock Synchronization Algorithm using Wi-Fi", \
-IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA), Padova, Italy, 2018.*
+IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA), Padova, Italy, 2024.*
 
 <ins>Bibtex:</ins> 
 <pre>
